@@ -1,6 +1,6 @@
 import java.util.ArrayList;
 
-public class AddressBook {
+public class AddressBook { //This comment is an edit that was made on the github website
 
     private static ArrayList<BuddyInfo> buddies;
 
