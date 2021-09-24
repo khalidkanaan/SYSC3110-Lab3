@@ -26,5 +26,6 @@ public class BuddyInfo {
         BuddyInfo buddy = new BuddyInfo("Tom", "Carleton", "613");;
         System.out.println("Hello " + buddy.getName());
         System.out.println("Hello world");
+        System.out.println("Your current address is: "+buddy.getAddress());
     }
 }
